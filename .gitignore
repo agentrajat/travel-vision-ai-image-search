@@ -1,0 +1,6 @@
+backend/images/*
+backend/models/*
+backend/outputs/*
+backend/__pycache__/*
+node_modules/*
+frontend/.firebase/*
